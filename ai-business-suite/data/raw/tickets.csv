@@ -1,0 +1,301 @@
+ticket_id,created_at,descripcion,categoria,solucion
+TKT0000,2025-11-04 06:27:14,El cliente reporta un problema con no enciende. Menciona que hace un ruido extraño. Se necesita revisión normal.,ELECTRICO,Verificar las conexiones del alternador.
+TKT0001,2025-03-13 06:27:14,El cliente reporta un problema con error. Menciona que no funciona. Se necesita revisión normal.,SOFTWARE,Borrar caché y cookies del navegador.
+TKT0002,2025-05-13 06:27:14,El cliente reporta un problema con app. Menciona que está fallando. Se necesita revisión normal.,SOFTWARE,Borrar caché y cookies del navegador.
+TKT0003,2024-11-28 06:27:14,El cliente reporta un problema con importe. Menciona que da un error. Se necesita revisión normal.,FACTURACIÓN,Reenviar la factura al cliente.
+TKT0004,2025-04-25 06:27:14,El cliente reporta un problema con transmisión. Menciona que no funciona. Se necesita revisión de seguimiento.,MECANICO,Realizar cambio de aceite y filtro.
+TKT0005,2025-01-13 06:27:14,El cliente reporta un problema con transmisión. Menciona que no funciona. Se necesita revisión de seguimiento.,MECANICO,Realizar cambio de aceite y filtro.
+TKT0006,2025-09-07 06:27:14,El cliente reporta un problema con importe. Menciona que da un error. Se necesita revisión urgente.,FACTURACIÓN,Emitir una nota de crédito si corresponde.
+TKT0007,2025-03-29 06:27:14,El cliente reporta un problema con no llegó. Menciona que no funciona. Se necesita revisión urgente.,FACTURACIÓN,Verificar el estado del pago en el sistema.
+TKT0008,2025-10-09 06:27:14,El cliente reporta un problema con luces. Menciona que hace un ruido extraño. Se necesita revisión normal.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0009,2025-10-12 06:27:14,El cliente reporta un problema con fusible. Menciona que está fallando. Se necesita revisión urgente.,ELECTRICO,Verificar las conexiones del alternador.
+TKT0010,2024-12-28 06:27:14,El cliente reporta un problema con ruido. Menciona que está fallando. Se necesita revisión de seguimiento.,MECANICO,Inspeccionar la correa de distribución.
+TKT0011,2025-08-31 06:27:14,El cliente reporta un problema con no funciona. Menciona que no funciona. Se necesita revisión normal.,SOFTWARE,Reiniciar el servidor de la aplicación.
+TKT0012,2024-12-11 06:27:14,El cliente reporta un problema con no enciende. Menciona que está fallando. Se necesita revisión de seguimiento.,ELECTRICO,Revisar y cargar la batería.
+TKT0013,2025-03-17 06:27:14,El cliente reporta un problema con vibración. Menciona que no funciona. Se necesita revisión normal.,MECANICO,Inspeccionar la correa de distribución.
+TKT0014,2025-04-13 06:27:14,El cliente reporta un problema con sistema. Menciona que da un error. Se necesita revisión de seguimiento.,SOFTWARE,Reiniciar el servidor de la aplicación.
+TKT0015,2025-01-16 06:27:14,El cliente reporta un problema con fusible. Menciona que está fallando. Se necesita revisión urgente.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0016,2025-01-22 06:27:14,El cliente reporta un problema con transmisión. Menciona que da un error. Se necesita revisión normal.,MECANICO,Inspeccionar la correa de distribución.
+TKT0017,2025-05-26 06:27:14,El cliente reporta un problema con vibración. Menciona que hace un ruido extraño. Se necesita revisión de seguimiento.,MECANICO,Cambiar pastillas de freno.
+TKT0018,2025-03-27 06:27:14,El cliente reporta un problema con arranque. Menciona que no funciona. Se necesita revisión urgente.,ELECTRICO,Revisar y cargar la batería.
+TKT0019,2025-06-17 06:27:14,El cliente reporta un problema con aceite. Menciona que está fallando. Se necesita revisión urgente.,MECANICO,Inspeccionar la correa de distribución.
+TKT0020,2024-12-31 06:27:14,El cliente reporta un problema con error. Menciona que da un error. Se necesita revisión normal.,SOFTWARE,Borrar caché y cookies del navegador.
+TKT0021,2025-06-14 06:27:14,El cliente reporta un problema con pago. Menciona que está fallando. Se necesita revisión urgente.,FACTURACIÓN,Reenviar la factura al cliente.
+TKT0022,2024-11-18 06:27:14,El cliente reporta un problema con arranque. Menciona que no funciona. Se necesita revisión urgente.,ELECTRICO,Revisar y cargar la batería.
+TKT0023,2025-02-22 06:27:14,El cliente reporta un problema con pago. Menciona que hace un ruido extraño. Se necesita revisión de seguimiento.,FACTURACIÓN,Reenviar la factura al cliente.
+TKT0024,2025-06-11 06:27:14,El cliente reporta un problema con arranque. Menciona que está fallando. Se necesita revisión de seguimiento.,ELECTRICO,Revisar y cargar la batería.
+TKT0025,2025-04-10 06:27:14,El cliente reporta un problema con no llegó. Menciona que no funciona. Se necesita revisión de seguimiento.,FACTURACIÓN,Emitir una nota de crédito si corresponde.
+TKT0026,2025-08-27 06:27:14,El cliente reporta un problema con alternador. Menciona que hace un ruido extraño. Se necesita revisión de seguimiento.,ELECTRICO,Revisar y cargar la batería.
+TKT0027,2025-09-12 06:27:14,El cliente reporta un problema con luces. Menciona que no funciona. Se necesita revisión urgente.,ELECTRICO,Revisar y cargar la batería.
+TKT0028,2025-11-06 06:27:14,El cliente reporta un problema con batería. Menciona que no funciona. Se necesita revisión normal.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0029,2025-08-21 06:27:14,El cliente reporta un problema con ruido. Menciona que hace un ruido extraño. Se necesita revisión normal.,MECANICO,Inspeccionar la correa de distribución.
+TKT0030,2025-07-06 06:27:14,El cliente reporta un problema con batería. Menciona que está fallando. Se necesita revisión de seguimiento.,ELECTRICO,Revisar y cargar la batería.
+TKT0031,2025-07-28 06:27:14,El cliente reporta un problema con no enciende. Menciona que no funciona. Se necesita revisión urgente.,ELECTRICO,Revisar y cargar la batería.
+TKT0032,2024-12-04 06:27:14,El cliente reporta un problema con batería. Menciona que no funciona. Se necesita revisión urgente.,ELECTRICO,Verificar las conexiones del alternador.
+TKT0033,2024-11-18 06:27:14,El cliente reporta un problema con factura. Menciona que da un error. Se necesita revisión normal.,FACTURACIÓN,Verificar el estado del pago en el sistema.
+TKT0034,2025-08-31 06:27:14,El cliente reporta un problema con alternador. Menciona que da un error. Se necesita revisión normal.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0035,2025-04-16 06:27:14,El cliente reporta un problema con cobro. Menciona que hace un ruido extraño. Se necesita revisión urgente.,FACTURACIÓN,Reenviar la factura al cliente.
+TKT0036,2025-03-29 06:27:14,El cliente reporta un problema con cobro. Menciona que no funciona. Se necesita revisión urgente.,FACTURACIÓN,Verificar el estado del pago en el sistema.
+TKT0037,2025-03-26 06:27:14,El cliente reporta un problema con alternador. Menciona que hace un ruido extraño. Se necesita revisión normal.,ELECTRICO,Verificar las conexiones del alternador.
+TKT0038,2024-12-27 06:27:14,El cliente reporta un problema con alternador. Menciona que está fallando. Se necesita revisión normal.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0039,2025-09-10 06:27:14,El cliente reporta un problema con frenos. Menciona que no funciona. Se necesita revisión normal.,MECANICO,Inspeccionar la correa de distribución.
+TKT0040,2025-10-12 06:27:14,El cliente reporta un problema con no llegó. Menciona que hace un ruido extraño. Se necesita revisión urgente.,FACTURACIÓN,Reenviar la factura al cliente.
+TKT0041,2024-11-23 06:27:14,El cliente reporta un problema con pago. Menciona que hace un ruido extraño. Se necesita revisión normal.,FACTURACIÓN,Emitir una nota de crédito si corresponde.
+TKT0042,2025-10-31 06:27:14,El cliente reporta un problema con frenos. Menciona que está fallando. Se necesita revisión de seguimiento.,MECANICO,Cambiar pastillas de freno.
+TKT0043,2025-11-10 06:27:14,El cliente reporta un problema con no enciende. Menciona que no funciona. Se necesita revisión de seguimiento.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0044,2025-07-15 06:27:14,El cliente reporta un problema con vibración. Menciona que está fallando. Se necesita revisión normal.,MECANICO,Cambiar pastillas de freno.
+TKT0045,2025-10-14 06:27:14,El cliente reporta un problema con error. Menciona que hace un ruido extraño. Se necesita revisión de seguimiento.,SOFTWARE,Reiniciar el servidor de la aplicación.
+TKT0046,2025-07-19 06:27:14,El cliente reporta un problema con frenos. Menciona que da un error. Se necesita revisión normal.,MECANICO,Inspeccionar la correa de distribución.
+TKT0047,2024-12-18 06:27:14,El cliente reporta un problema con ruido. Menciona que está fallando. Se necesita revisión de seguimiento.,MECANICO,Cambiar pastillas de freno.
+TKT0048,2025-04-01 06:27:14,El cliente reporta un problema con arranque. Menciona que hace un ruido extraño. Se necesita revisión normal.,ELECTRICO,Revisar y cargar la batería.
+TKT0049,2025-03-18 06:27:14,El cliente reporta un problema con ruido. Menciona que está fallando. Se necesita revisión de seguimiento.,MECANICO,Inspeccionar la correa de distribución.
+TKT0050,2025-08-28 06:27:14,El cliente reporta un problema con importe. Menciona que está fallando. Se necesita revisión de seguimiento.,FACTURACIÓN,Emitir una nota de crédito si corresponde.
+TKT0051,2025-02-01 06:27:14,El cliente reporta un problema con aceite. Menciona que hace un ruido extraño. Se necesita revisión normal.,MECANICO,Realizar cambio de aceite y filtro.
+TKT0052,2025-09-17 06:27:14,El cliente reporta un problema con motor. Menciona que no funciona. Se necesita revisión de seguimiento.,MECANICO,Realizar cambio de aceite y filtro.
+TKT0053,2025-11-10 06:27:14,El cliente reporta un problema con error. Menciona que hace un ruido extraño. Se necesita revisión urgente.,SOFTWARE,Borrar caché y cookies del navegador.
+TKT0054,2025-01-23 06:27:14,El cliente reporta un problema con error. Menciona que está fallando. Se necesita revisión de seguimiento.,SOFTWARE,Verificar credenciales de acceso.
+TKT0055,2025-07-27 06:27:14,El cliente reporta un problema con frenos. Menciona que está fallando. Se necesita revisión de seguimiento.,MECANICO,Realizar cambio de aceite y filtro.
+TKT0056,2025-04-04 06:27:14,El cliente reporta un problema con no funciona. Menciona que está fallando. Se necesita revisión normal.,SOFTWARE,Reiniciar el servidor de la aplicación.
+TKT0057,2025-04-14 06:27:14,El cliente reporta un problema con frenos. Menciona que no funciona. Se necesita revisión de seguimiento.,MECANICO,Inspeccionar la correa de distribución.
+TKT0058,2024-11-25 06:27:14,El cliente reporta un problema con no enciende. Menciona que hace un ruido extraño. Se necesita revisión normal.,ELECTRICO,Verificar las conexiones del alternador.
+TKT0059,2025-02-11 06:27:14,El cliente reporta un problema con motor. Menciona que da un error. Se necesita revisión normal.,MECANICO,Realizar cambio de aceite y filtro.
+TKT0060,2025-01-26 06:27:14,El cliente reporta un problema con frenos. Menciona que hace un ruido extraño. Se necesita revisión urgente.,MECANICO,Cambiar pastillas de freno.
+TKT0061,2025-02-13 06:27:14,El cliente reporta un problema con arranque. Menciona que da un error. Se necesita revisión normal.,ELECTRICO,Revisar y cargar la batería.
+TKT0062,2025-05-19 06:27:14,El cliente reporta un problema con no funciona. Menciona que hace un ruido extraño. Se necesita revisión de seguimiento.,SOFTWARE,Reiniciar el servidor de la aplicación.
+TKT0063,2024-12-27 06:27:14,El cliente reporta un problema con importe. Menciona que está fallando. Se necesita revisión de seguimiento.,FACTURACIÓN,Reenviar la factura al cliente.
+TKT0064,2025-02-12 06:27:14,El cliente reporta un problema con importe. Menciona que está fallando. Se necesita revisión normal.,FACTURACIÓN,Reenviar la factura al cliente.
+TKT0065,2025-08-14 06:27:14,El cliente reporta un problema con pago. Menciona que da un error. Se necesita revisión normal.,FACTURACIÓN,Emitir una nota de crédito si corresponde.
+TKT0066,2025-09-19 06:27:14,El cliente reporta un problema con luces. Menciona que hace un ruido extraño. Se necesita revisión urgente.,ELECTRICO,Revisar y cargar la batería.
+TKT0067,2025-07-24 06:27:14,El cliente reporta un problema con no enciende. Menciona que da un error. Se necesita revisión de seguimiento.,ELECTRICO,Verificar las conexiones del alternador.
+TKT0068,2025-11-12 06:27:14,El cliente reporta un problema con aceite. Menciona que hace un ruido extraño. Se necesita revisión de seguimiento.,MECANICO,Realizar cambio de aceite y filtro.
+TKT0069,2025-03-29 06:27:14,El cliente reporta un problema con error. Menciona que está fallando. Se necesita revisión de seguimiento.,SOFTWARE,Verificar credenciales de acceso.
+TKT0070,2024-11-25 06:27:14,El cliente reporta un problema con luces. Menciona que da un error. Se necesita revisión de seguimiento.,ELECTRICO,Verificar las conexiones del alternador.
+TKT0071,2024-12-07 06:27:14,El cliente reporta un problema con sistema. Menciona que no funciona. Se necesita revisión normal.,SOFTWARE,Reiniciar el servidor de la aplicación.
+TKT0072,2025-01-04 06:27:14,El cliente reporta un problema con no enciende. Menciona que hace un ruido extraño. Se necesita revisión de seguimiento.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0073,2025-07-12 06:27:14,El cliente reporta un problema con no enciende. Menciona que está fallando. Se necesita revisión de seguimiento.,ELECTRICO,Revisar y cargar la batería.
+TKT0074,2025-10-04 06:27:14,El cliente reporta un problema con frenos. Menciona que no funciona. Se necesita revisión normal.,MECANICO,Cambiar pastillas de freno.
+TKT0075,2024-12-17 06:27:14,El cliente reporta un problema con alternador. Menciona que está fallando. Se necesita revisión urgente.,ELECTRICO,Verificar las conexiones del alternador.
+TKT0076,2025-03-04 06:27:14,El cliente reporta un problema con no llegó. Menciona que hace un ruido extraño. Se necesita revisión de seguimiento.,FACTURACIÓN,Emitir una nota de crédito si corresponde.
+TKT0077,2025-10-21 06:27:14,El cliente reporta un problema con error. Menciona que no funciona. Se necesita revisión normal.,SOFTWARE,Reiniciar el servidor de la aplicación.
+TKT0078,2025-02-24 06:27:14,El cliente reporta un problema con cobro. Menciona que da un error. Se necesita revisión normal.,FACTURACIÓN,Emitir una nota de crédito si corresponde.
+TKT0079,2025-07-21 06:27:14,El cliente reporta un problema con frenos. Menciona que está fallando. Se necesita revisión normal.,MECANICO,Inspeccionar la correa de distribución.
+TKT0080,2025-02-23 06:27:14,El cliente reporta un problema con vibración. Menciona que da un error. Se necesita revisión normal.,MECANICO,Cambiar pastillas de freno.
+TKT0081,2024-11-29 06:27:14,El cliente reporta un problema con app. Menciona que da un error. Se necesita revisión normal.,SOFTWARE,Reiniciar el servidor de la aplicación.
+TKT0082,2025-06-24 06:27:14,El cliente reporta un problema con no funciona. Menciona que no funciona. Se necesita revisión de seguimiento.,SOFTWARE,Borrar caché y cookies del navegador.
+TKT0083,2025-02-05 06:27:14,El cliente reporta un problema con no funciona. Menciona que hace un ruido extraño. Se necesita revisión urgente.,SOFTWARE,Verificar credenciales de acceso.
+TKT0084,2025-01-25 06:27:14,El cliente reporta un problema con motor. Menciona que no funciona. Se necesita revisión de seguimiento.,MECANICO,Cambiar pastillas de freno.
+TKT0085,2024-11-25 06:27:14,El cliente reporta un problema con no llegó. Menciona que da un error. Se necesita revisión urgente.,FACTURACIÓN,Emitir una nota de crédito si corresponde.
+TKT0086,2024-12-17 06:27:14,El cliente reporta un problema con arranque. Menciona que no funciona. Se necesita revisión de seguimiento.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0087,2025-03-12 06:27:14,El cliente reporta un problema con batería. Menciona que está fallando. Se necesita revisión normal.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0088,2025-10-17 06:27:14,El cliente reporta un problema con importe. Menciona que hace un ruido extraño. Se necesita revisión urgente.,FACTURACIÓN,Verificar el estado del pago en el sistema.
+TKT0089,2025-10-28 06:27:14,El cliente reporta un problema con aceite. Menciona que está fallando. Se necesita revisión urgente.,MECANICO,Realizar cambio de aceite y filtro.
+TKT0090,2025-08-23 06:27:14,El cliente reporta un problema con arranque. Menciona que está fallando. Se necesita revisión normal.,ELECTRICO,Verificar las conexiones del alternador.
+TKT0091,2025-03-20 06:27:14,El cliente reporta un problema con alternador. Menciona que no funciona. Se necesita revisión de seguimiento.,ELECTRICO,Revisar y cargar la batería.
+TKT0092,2025-05-12 06:27:14,El cliente reporta un problema con factura. Menciona que da un error. Se necesita revisión urgente.,FACTURACIÓN,Reenviar la factura al cliente.
+TKT0093,2025-09-04 06:27:14,El cliente reporta un problema con fusible. Menciona que da un error. Se necesita revisión normal.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0094,2025-08-28 06:27:14,El cliente reporta un problema con luces. Menciona que da un error. Se necesita revisión urgente.,ELECTRICO,Revisar y cargar la batería.
+TKT0095,2025-02-01 06:27:14,El cliente reporta un problema con pago. Menciona que da un error. Se necesita revisión urgente.,FACTURACIÓN,Emitir una nota de crédito si corresponde.
+TKT0096,2024-11-25 06:27:14,El cliente reporta un problema con no enciende. Menciona que no funciona. Se necesita revisión urgente.,ELECTRICO,Revisar y cargar la batería.
+TKT0097,2025-10-04 06:27:14,El cliente reporta un problema con batería. Menciona que da un error. Se necesita revisión de seguimiento.,ELECTRICO,Revisar y cargar la batería.
+TKT0098,2025-03-27 06:27:14,El cliente reporta un problema con error. Menciona que no funciona. Se necesita revisión normal.,SOFTWARE,Verificar credenciales de acceso.
+TKT0099,2025-09-25 06:27:14,El cliente reporta un problema con cobro. Menciona que da un error. Se necesita revisión urgente.,FACTURACIÓN,Verificar el estado del pago en el sistema.
+TKT0100,2025-02-26 06:27:14,El cliente reporta un problema con fusible. Menciona que da un error. Se necesita revisión de seguimiento.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0101,2025-05-22 06:27:14,El cliente reporta un problema con batería. Menciona que hace un ruido extraño. Se necesita revisión normal.,ELECTRICO,Verificar las conexiones del alternador.
+TKT0102,2025-02-25 06:27:14,El cliente reporta un problema con pago. Menciona que está fallando. Se necesita revisión urgente.,FACTURACIÓN,Reenviar la factura al cliente.
+TKT0103,2025-07-10 06:27:14,El cliente reporta un problema con importe. Menciona que da un error. Se necesita revisión de seguimiento.,FACTURACIÓN,Verificar el estado del pago en el sistema.
+TKT0104,2024-11-22 06:27:14,El cliente reporta un problema con cobro. Menciona que no funciona. Se necesita revisión de seguimiento.,FACTURACIÓN,Verificar el estado del pago en el sistema.
+TKT0105,2025-01-21 06:27:14,El cliente reporta un problema con transmisión. Menciona que da un error. Se necesita revisión de seguimiento.,MECANICO,Inspeccionar la correa de distribución.
+TKT0106,2025-07-13 06:27:14,El cliente reporta un problema con batería. Menciona que da un error. Se necesita revisión urgente.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0107,2024-12-14 06:27:14,El cliente reporta un problema con transmisión. Menciona que no funciona. Se necesita revisión normal.,MECANICO,Cambiar pastillas de freno.
+TKT0108,2024-12-14 06:27:14,El cliente reporta un problema con frenos. Menciona que da un error. Se necesita revisión normal.,MECANICO,Realizar cambio de aceite y filtro.
+TKT0109,2025-05-16 06:27:14,El cliente reporta un problema con motor. Menciona que está fallando. Se necesita revisión urgente.,MECANICO,Inspeccionar la correa de distribución.
+TKT0110,2025-02-06 06:27:14,El cliente reporta un problema con batería. Menciona que está fallando. Se necesita revisión normal.,ELECTRICO,Verificar las conexiones del alternador.
+TKT0111,2025-09-27 06:27:14,El cliente reporta un problema con alternador. Menciona que está fallando. Se necesita revisión de seguimiento.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0112,2025-10-13 06:27:14,El cliente reporta un problema con batería. Menciona que está fallando. Se necesita revisión urgente.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0113,2025-08-27 06:27:14,El cliente reporta un problema con importe. Menciona que no funciona. Se necesita revisión normal.,FACTURACIÓN,Emitir una nota de crédito si corresponde.
+TKT0114,2025-09-25 06:27:14,El cliente reporta un problema con login. Menciona que no funciona. Se necesita revisión urgente.,SOFTWARE,Verificar credenciales de acceso.
+TKT0115,2025-10-12 06:27:14,El cliente reporta un problema con cobro. Menciona que está fallando. Se necesita revisión urgente.,FACTURACIÓN,Emitir una nota de crédito si corresponde.
+TKT0116,2025-06-06 06:27:14,El cliente reporta un problema con aceite. Menciona que hace un ruido extraño. Se necesita revisión urgente.,MECANICO,Inspeccionar la correa de distribución.
+TKT0117,2025-08-27 06:27:14,El cliente reporta un problema con motor. Menciona que hace un ruido extraño. Se necesita revisión normal.,MECANICO,Realizar cambio de aceite y filtro.
+TKT0118,2025-08-20 06:27:14,El cliente reporta un problema con ruido. Menciona que no funciona. Se necesita revisión normal.,MECANICO,Inspeccionar la correa de distribución.
+TKT0119,2025-04-25 06:27:14,El cliente reporta un problema con error. Menciona que está fallando. Se necesita revisión urgente.,FACTURACIÓN,Emitir una nota de crédito si corresponde.
+TKT0120,2025-03-10 06:27:14,El cliente reporta un problema con motor. Menciona que hace un ruido extraño. Se necesita revisión urgente.,MECANICO,Inspeccionar la correa de distribución.
+TKT0121,2025-11-02 06:27:14,El cliente reporta un problema con vibración. Menciona que está fallando. Se necesita revisión normal.,MECANICO,Cambiar pastillas de freno.
+TKT0122,2025-07-31 06:27:14,El cliente reporta un problema con ruido. Menciona que no funciona. Se necesita revisión normal.,MECANICO,Realizar cambio de aceite y filtro.
+TKT0123,2024-12-28 06:27:14,El cliente reporta un problema con batería. Menciona que no funciona. Se necesita revisión normal.,ELECTRICO,Verificar las conexiones del alternador.
+TKT0124,2025-08-04 06:27:14,El cliente reporta un problema con batería. Menciona que da un error. Se necesita revisión de seguimiento.,ELECTRICO,Revisar y cargar la batería.
+TKT0125,2025-06-11 06:27:14,El cliente reporta un problema con aceite. Menciona que da un error. Se necesita revisión urgente.,MECANICO,Realizar cambio de aceite y filtro.
+TKT0126,2025-07-10 06:27:14,El cliente reporta un problema con no enciende. Menciona que da un error. Se necesita revisión de seguimiento.,ELECTRICO,Revisar y cargar la batería.
+TKT0127,2024-12-16 06:27:14,El cliente reporta un problema con frenos. Menciona que está fallando. Se necesita revisión normal.,MECANICO,Inspeccionar la correa de distribución.
+TKT0128,2025-03-17 06:27:14,El cliente reporta un problema con no enciende. Menciona que da un error. Se necesita revisión normal.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0129,2025-05-09 06:27:14,El cliente reporta un problema con aceite. Menciona que da un error. Se necesita revisión normal.,MECANICO,Inspeccionar la correa de distribución.
+TKT0130,2025-09-19 06:27:14,El cliente reporta un problema con aceite. Menciona que está fallando. Se necesita revisión de seguimiento.,MECANICO,Cambiar pastillas de freno.
+TKT0131,2025-02-28 06:27:14,El cliente reporta un problema con ruido. Menciona que da un error. Se necesita revisión de seguimiento.,MECANICO,Realizar cambio de aceite y filtro.
+TKT0132,2024-12-20 06:27:14,El cliente reporta un problema con frenos. Menciona que hace un ruido extraño. Se necesita revisión urgente.,MECANICO,Cambiar pastillas de freno.
+TKT0133,2025-10-05 06:27:14,El cliente reporta un problema con cobro. Menciona que da un error. Se necesita revisión urgente.,FACTURACIÓN,Verificar el estado del pago en el sistema.
+TKT0134,2025-06-02 06:27:14,El cliente reporta un problema con ruido. Menciona que da un error. Se necesita revisión de seguimiento.,MECANICO,Inspeccionar la correa de distribución.
+TKT0135,2025-04-01 06:27:14,El cliente reporta un problema con no funciona. Menciona que no funciona. Se necesita revisión normal.,SOFTWARE,Borrar caché y cookies del navegador.
+TKT0136,2025-10-01 06:27:14,El cliente reporta un problema con alternador. Menciona que da un error. Se necesita revisión urgente.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0137,2025-05-07 06:27:14,El cliente reporta un problema con ruido. Menciona que da un error. Se necesita revisión urgente.,MECANICO,Inspeccionar la correa de distribución.
+TKT0138,2024-12-11 06:27:14,El cliente reporta un problema con fusible. Menciona que da un error. Se necesita revisión normal.,ELECTRICO,Verificar las conexiones del alternador.
+TKT0139,2025-03-27 06:27:14,El cliente reporta un problema con motor. Menciona que hace un ruido extraño. Se necesita revisión normal.,MECANICO,Cambiar pastillas de freno.
+TKT0140,2025-07-12 06:27:14,El cliente reporta un problema con error. Menciona que da un error. Se necesita revisión de seguimiento.,FACTURACIÓN,Verificar el estado del pago en el sistema.
+TKT0141,2025-07-12 06:27:14,El cliente reporta un problema con vibración. Menciona que hace un ruido extraño. Se necesita revisión urgente.,MECANICO,Inspeccionar la correa de distribución.
+TKT0142,2025-06-21 06:27:14,El cliente reporta un problema con luces. Menciona que no funciona. Se necesita revisión de seguimiento.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0143,2025-05-27 06:27:14,El cliente reporta un problema con sistema. Menciona que hace un ruido extraño. Se necesita revisión de seguimiento.,SOFTWARE,Verificar credenciales de acceso.
+TKT0144,2025-05-30 06:27:14,El cliente reporta un problema con vibración. Menciona que está fallando. Se necesita revisión de seguimiento.,MECANICO,Realizar cambio de aceite y filtro.
+TKT0145,2025-09-24 06:27:14,El cliente reporta un problema con error. Menciona que no funciona. Se necesita revisión urgente.,FACTURACIÓN,Verificar el estado del pago en el sistema.
+TKT0146,2025-03-01 06:27:14,El cliente reporta un problema con aceite. Menciona que está fallando. Se necesita revisión de seguimiento.,MECANICO,Inspeccionar la correa de distribución.
+TKT0147,2025-06-01 06:27:14,El cliente reporta un problema con frenos. Menciona que da un error. Se necesita revisión normal.,MECANICO,Realizar cambio de aceite y filtro.
+TKT0148,2025-06-12 06:27:14,El cliente reporta un problema con aceite. Menciona que da un error. Se necesita revisión normal.,MECANICO,Cambiar pastillas de freno.
+TKT0149,2024-11-20 06:27:14,El cliente reporta un problema con motor. Menciona que hace un ruido extraño. Se necesita revisión normal.,MECANICO,Realizar cambio de aceite y filtro.
+TKT0150,2025-05-07 06:27:14,El cliente reporta un problema con no llegó. Menciona que hace un ruido extraño. Se necesita revisión urgente.,FACTURACIÓN,Emitir una nota de crédito si corresponde.
+TKT0151,2025-06-09 06:27:14,El cliente reporta un problema con factura. Menciona que da un error. Se necesita revisión urgente.,FACTURACIÓN,Emitir una nota de crédito si corresponde.
+TKT0152,2024-12-01 06:27:14,El cliente reporta un problema con transmisión. Menciona que hace un ruido extraño. Se necesita revisión urgente.,MECANICO,Inspeccionar la correa de distribución.
+TKT0153,2025-07-24 06:27:14,El cliente reporta un problema con no enciende. Menciona que no funciona. Se necesita revisión normal.,ELECTRICO,Verificar las conexiones del alternador.
+TKT0154,2025-03-30 06:27:14,El cliente reporta un problema con error. Menciona que da un error. Se necesita revisión urgente.,FACTURACIÓN,Reenviar la factura al cliente.
+TKT0155,2025-10-15 06:27:14,El cliente reporta un problema con importe. Menciona que está fallando. Se necesita revisión normal.,FACTURACIÓN,Verificar el estado del pago en el sistema.
+TKT0156,2025-04-05 06:27:14,El cliente reporta un problema con alternador. Menciona que está fallando. Se necesita revisión urgente.,ELECTRICO,Verificar las conexiones del alternador.
+TKT0157,2025-09-06 06:27:14,El cliente reporta un problema con motor. Menciona que no funciona. Se necesita revisión normal.,MECANICO,Realizar cambio de aceite y filtro.
+TKT0158,2025-11-15 06:27:14,El cliente reporta un problema con frenos. Menciona que da un error. Se necesita revisión de seguimiento.,MECANICO,Inspeccionar la correa de distribución.
+TKT0159,2024-12-11 06:27:14,El cliente reporta un problema con no enciende. Menciona que da un error. Se necesita revisión de seguimiento.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0160,2025-01-03 06:27:14,El cliente reporta un problema con error. Menciona que no funciona. Se necesita revisión normal.,FACTURACIÓN,Verificar el estado del pago en el sistema.
+TKT0161,2025-07-11 06:27:14,El cliente reporta un problema con aceite. Menciona que hace un ruido extraño. Se necesita revisión urgente.,MECANICO,Inspeccionar la correa de distribución.
+TKT0162,2025-10-25 06:27:14,El cliente reporta un problema con error. Menciona que hace un ruido extraño. Se necesita revisión normal.,FACTURACIÓN,Reenviar la factura al cliente.
+TKT0163,2024-11-22 06:27:14,El cliente reporta un problema con motor. Menciona que está fallando. Se necesita revisión normal.,MECANICO,Inspeccionar la correa de distribución.
+TKT0164,2025-03-04 06:27:14,El cliente reporta un problema con aceite. Menciona que hace un ruido extraño. Se necesita revisión urgente.,MECANICO,Inspeccionar la correa de distribución.
+TKT0165,2025-02-02 06:27:14,El cliente reporta un problema con vibración. Menciona que está fallando. Se necesita revisión de seguimiento.,MECANICO,Inspeccionar la correa de distribución.
+TKT0166,2025-08-29 06:27:14,El cliente reporta un problema con ruido. Menciona que hace un ruido extraño. Se necesita revisión urgente.,MECANICO,Realizar cambio de aceite y filtro.
+TKT0167,2025-02-17 06:27:14,El cliente reporta un problema con vibración. Menciona que hace un ruido extraño. Se necesita revisión de seguimiento.,MECANICO,Realizar cambio de aceite y filtro.
+TKT0168,2025-07-14 06:27:14,El cliente reporta un problema con importe. Menciona que da un error. Se necesita revisión urgente.,FACTURACIÓN,Reenviar la factura al cliente.
+TKT0169,2025-04-27 06:27:14,El cliente reporta un problema con alternador. Menciona que hace un ruido extraño. Se necesita revisión de seguimiento.,ELECTRICO,Verificar las conexiones del alternador.
+TKT0170,2025-03-12 06:27:14,El cliente reporta un problema con luces. Menciona que da un error. Se necesita revisión de seguimiento.,ELECTRICO,Verificar las conexiones del alternador.
+TKT0171,2025-05-18 06:27:14,El cliente reporta un problema con error. Menciona que no funciona. Se necesita revisión urgente.,FACTURACIÓN,Emitir una nota de crédito si corresponde.
+TKT0172,2025-04-07 06:27:14,El cliente reporta un problema con alternador. Menciona que hace un ruido extraño. Se necesita revisión urgente.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0173,2025-11-15 06:27:14,El cliente reporta un problema con vibración. Menciona que da un error. Se necesita revisión de seguimiento.,MECANICO,Realizar cambio de aceite y filtro.
+TKT0174,2025-10-28 06:27:14,El cliente reporta un problema con frenos. Menciona que está fallando. Se necesita revisión normal.,MECANICO,Inspeccionar la correa de distribución.
+TKT0175,2024-12-10 06:27:14,El cliente reporta un problema con no funciona. Menciona que no funciona. Se necesita revisión de seguimiento.,SOFTWARE,Verificar credenciales de acceso.
+TKT0176,2025-06-11 06:27:14,El cliente reporta un problema con alternador. Menciona que da un error. Se necesita revisión urgente.,ELECTRICO,Verificar las conexiones del alternador.
+TKT0177,2025-06-15 06:27:14,El cliente reporta un problema con no enciende. Menciona que hace un ruido extraño. Se necesita revisión normal.,ELECTRICO,Revisar y cargar la batería.
+TKT0178,2024-12-10 06:27:14,El cliente reporta un problema con luces. Menciona que hace un ruido extraño. Se necesita revisión de seguimiento.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0179,2025-03-17 06:27:14,El cliente reporta un problema con alternador. Menciona que hace un ruido extraño. Se necesita revisión urgente.,ELECTRICO,Revisar y cargar la batería.
+TKT0180,2025-11-11 06:27:14,El cliente reporta un problema con error. Menciona que está fallando. Se necesita revisión de seguimiento.,FACTURACIÓN,Reenviar la factura al cliente.
+TKT0181,2025-04-13 06:27:14,El cliente reporta un problema con luces. Menciona que da un error. Se necesita revisión normal.,ELECTRICO,Verificar las conexiones del alternador.
+TKT0182,2025-02-04 06:27:14,El cliente reporta un problema con frenos. Menciona que está fallando. Se necesita revisión de seguimiento.,MECANICO,Inspeccionar la correa de distribución.
+TKT0183,2025-01-14 06:27:14,El cliente reporta un problema con transmisión. Menciona que da un error. Se necesita revisión urgente.,MECANICO,Inspeccionar la correa de distribución.
+TKT0184,2025-03-23 06:27:14,El cliente reporta un problema con error. Menciona que está fallando. Se necesita revisión de seguimiento.,SOFTWARE,Verificar credenciales de acceso.
+TKT0185,2024-11-21 06:27:14,El cliente reporta un problema con vibración. Menciona que está fallando. Se necesita revisión urgente.,MECANICO,Cambiar pastillas de freno.
+TKT0186,2025-02-16 06:27:14,El cliente reporta un problema con arranque. Menciona que hace un ruido extraño. Se necesita revisión de seguimiento.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0187,2025-10-17 06:27:14,El cliente reporta un problema con vibración. Menciona que no funciona. Se necesita revisión urgente.,MECANICO,Cambiar pastillas de freno.
+TKT0188,2025-01-14 06:27:14,El cliente reporta un problema con motor. Menciona que está fallando. Se necesita revisión normal.,MECANICO,Realizar cambio de aceite y filtro.
+TKT0189,2025-07-29 06:27:14,El cliente reporta un problema con no enciende. Menciona que hace un ruido extraño. Se necesita revisión normal.,ELECTRICO,Revisar y cargar la batería.
+TKT0190,2025-04-24 06:27:14,El cliente reporta un problema con transmisión. Menciona que da un error. Se necesita revisión de seguimiento.,MECANICO,Inspeccionar la correa de distribución.
+TKT0191,2025-09-23 06:27:14,El cliente reporta un problema con fusible. Menciona que hace un ruido extraño. Se necesita revisión urgente.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0192,2025-07-10 06:27:14,El cliente reporta un problema con factura. Menciona que hace un ruido extraño. Se necesita revisión de seguimiento.,FACTURACIÓN,Reenviar la factura al cliente.
+TKT0193,2025-02-11 06:27:14,El cliente reporta un problema con motor. Menciona que no funciona. Se necesita revisión normal.,MECANICO,Realizar cambio de aceite y filtro.
+TKT0194,2025-10-21 06:27:14,El cliente reporta un problema con aceite. Menciona que no funciona. Se necesita revisión normal.,MECANICO,Cambiar pastillas de freno.
+TKT0195,2025-08-12 06:27:14,El cliente reporta un problema con error. Menciona que hace un ruido extraño. Se necesita revisión urgente.,FACTURACIÓN,Emitir una nota de crédito si corresponde.
+TKT0196,2025-05-09 06:27:14,El cliente reporta un problema con transmisión. Menciona que está fallando. Se necesita revisión urgente.,MECANICO,Realizar cambio de aceite y filtro.
+TKT0197,2025-07-08 06:27:14,El cliente reporta un problema con alternador. Menciona que no funciona. Se necesita revisión normal.,ELECTRICO,Verificar las conexiones del alternador.
+TKT0198,2025-01-24 06:27:14,El cliente reporta un problema con frenos. Menciona que hace un ruido extraño. Se necesita revisión normal.,MECANICO,Cambiar pastillas de freno.
+TKT0199,2025-10-31 06:27:14,El cliente reporta un problema con motor. Menciona que está fallando. Se necesita revisión normal.,MECANICO,Inspeccionar la correa de distribución.
+TKT0200,2025-08-05 06:27:14,El cliente reporta un problema con sistema. Menciona que da un error. Se necesita revisión normal.,SOFTWARE,Borrar caché y cookies del navegador.
+TKT0201,2025-08-31 06:27:14,El cliente reporta un problema con frenos. Menciona que da un error. Se necesita revisión de seguimiento.,MECANICO,Cambiar pastillas de freno.
+TKT0202,2025-05-03 06:27:14,El cliente reporta un problema con aceite. Menciona que no funciona. Se necesita revisión urgente.,MECANICO,Realizar cambio de aceite y filtro.
+TKT0203,2024-12-04 06:27:14,El cliente reporta un problema con frenos. Menciona que hace un ruido extraño. Se necesita revisión de seguimiento.,MECANICO,Inspeccionar la correa de distribución.
+TKT0204,2025-09-03 06:27:14,El cliente reporta un problema con transmisión. Menciona que no funciona. Se necesita revisión urgente.,MECANICO,Inspeccionar la correa de distribución.
+TKT0205,2024-12-28 06:27:14,El cliente reporta un problema con vibración. Menciona que hace un ruido extraño. Se necesita revisión normal.,MECANICO,Realizar cambio de aceite y filtro.
+TKT0206,2025-08-17 06:27:14,El cliente reporta un problema con frenos. Menciona que no funciona. Se necesita revisión normal.,MECANICO,Inspeccionar la correa de distribución.
+TKT0207,2025-10-31 06:27:14,El cliente reporta un problema con error. Menciona que da un error. Se necesita revisión urgente.,SOFTWARE,Reiniciar el servidor de la aplicación.
+TKT0208,2025-04-14 06:27:14,El cliente reporta un problema con arranque. Menciona que está fallando. Se necesita revisión urgente.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0209,2025-03-04 06:27:14,El cliente reporta un problema con aceite. Menciona que hace un ruido extraño. Se necesita revisión de seguimiento.,MECANICO,Cambiar pastillas de freno.
+TKT0210,2025-03-04 06:27:14,El cliente reporta un problema con no enciende. Menciona que hace un ruido extraño. Se necesita revisión normal.,ELECTRICO,Revisar y cargar la batería.
+TKT0211,2025-04-27 06:27:14,El cliente reporta un problema con factura. Menciona que no funciona. Se necesita revisión urgente.,FACTURACIÓN,Reenviar la factura al cliente.
+TKT0212,2025-06-06 06:27:14,El cliente reporta un problema con error. Menciona que hace un ruido extraño. Se necesita revisión normal.,SOFTWARE,Reiniciar el servidor de la aplicación.
+TKT0213,2025-05-31 06:27:14,El cliente reporta un problema con error. Menciona que hace un ruido extraño. Se necesita revisión urgente.,FACTURACIÓN,Verificar el estado del pago en el sistema.
+TKT0214,2025-09-30 06:27:14,El cliente reporta un problema con ruido. Menciona que no funciona. Se necesita revisión de seguimiento.,MECANICO,Inspeccionar la correa de distribución.
+TKT0215,2025-07-23 06:27:14,El cliente reporta un problema con luces. Menciona que da un error. Se necesita revisión normal.,ELECTRICO,Verificar las conexiones del alternador.
+TKT0216,2025-10-27 06:27:14,El cliente reporta un problema con vibración. Menciona que da un error. Se necesita revisión normal.,MECANICO,Cambiar pastillas de freno.
+TKT0217,2025-07-20 06:27:14,El cliente reporta un problema con ruido. Menciona que da un error. Se necesita revisión urgente.,MECANICO,Inspeccionar la correa de distribución.
+TKT0218,2025-10-30 06:27:14,El cliente reporta un problema con no llegó. Menciona que da un error. Se necesita revisión urgente.,FACTURACIÓN,Reenviar la factura al cliente.
+TKT0219,2024-11-21 06:27:14,El cliente reporta un problema con factura. Menciona que hace un ruido extraño. Se necesita revisión urgente.,FACTURACIÓN,Reenviar la factura al cliente.
+TKT0220,2025-05-28 06:27:14,El cliente reporta un problema con cobro. Menciona que está fallando. Se necesita revisión urgente.,FACTURACIÓN,Emitir una nota de crédito si corresponde.
+TKT0221,2025-03-25 06:27:14,El cliente reporta un problema con alternador. Menciona que hace un ruido extraño. Se necesita revisión urgente.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0222,2025-09-30 06:27:14,El cliente reporta un problema con ruido. Menciona que da un error. Se necesita revisión normal.,MECANICO,Cambiar pastillas de freno.
+TKT0223,2025-10-02 06:27:14,El cliente reporta un problema con luces. Menciona que no funciona. Se necesita revisión de seguimiento.,ELECTRICO,Revisar y cargar la batería.
+TKT0224,2025-02-28 06:27:14,El cliente reporta un problema con no enciende. Menciona que está fallando. Se necesita revisión urgente.,ELECTRICO,Verificar las conexiones del alternador.
+TKT0225,2025-01-25 06:27:14,El cliente reporta un problema con luces. Menciona que hace un ruido extraño. Se necesita revisión normal.,ELECTRICO,Revisar y cargar la batería.
+TKT0226,2025-08-02 06:27:14,El cliente reporta un problema con alternador. Menciona que no funciona. Se necesita revisión urgente.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0227,2025-07-12 06:27:14,El cliente reporta un problema con transmisión. Menciona que está fallando. Se necesita revisión normal.,MECANICO,Cambiar pastillas de freno.
+TKT0228,2025-05-23 06:27:14,El cliente reporta un problema con cobro. Menciona que da un error. Se necesita revisión urgente.,FACTURACIÓN,Reenviar la factura al cliente.
+TKT0229,2025-11-13 06:27:14,El cliente reporta un problema con aceite. Menciona que está fallando. Se necesita revisión urgente.,MECANICO,Cambiar pastillas de freno.
+TKT0230,2025-09-27 06:27:14,El cliente reporta un problema con vibración. Menciona que hace un ruido extraño. Se necesita revisión de seguimiento.,MECANICO,Cambiar pastillas de freno.
+TKT0231,2025-08-23 06:27:14,El cliente reporta un problema con login. Menciona que da un error. Se necesita revisión urgente.,SOFTWARE,Reiniciar el servidor de la aplicación.
+TKT0232,2024-12-13 06:27:14,El cliente reporta un problema con luces. Menciona que está fallando. Se necesita revisión urgente.,ELECTRICO,Verificar las conexiones del alternador.
+TKT0233,2024-12-17 06:27:14,El cliente reporta un problema con frenos. Menciona que no funciona. Se necesita revisión de seguimiento.,MECANICO,Inspeccionar la correa de distribución.
+TKT0234,2025-08-06 06:27:14,El cliente reporta un problema con transmisión. Menciona que hace un ruido extraño. Se necesita revisión urgente.,MECANICO,Realizar cambio de aceite y filtro.
+TKT0235,2025-03-30 06:27:14,El cliente reporta un problema con lento. Menciona que hace un ruido extraño. Se necesita revisión normal.,SOFTWARE,Borrar caché y cookies del navegador.
+TKT0236,2025-10-02 06:27:14,El cliente reporta un problema con motor. Menciona que hace un ruido extraño. Se necesita revisión normal.,MECANICO,Cambiar pastillas de freno.
+TKT0237,2025-10-03 06:27:14,El cliente reporta un problema con no llegó. Menciona que hace un ruido extraño. Se necesita revisión urgente.,FACTURACIÓN,Reenviar la factura al cliente.
+TKT0238,2025-09-29 06:27:14,El cliente reporta un problema con vibración. Menciona que da un error. Se necesita revisión de seguimiento.,MECANICO,Cambiar pastillas de freno.
+TKT0239,2025-05-24 06:27:14,El cliente reporta un problema con ruido. Menciona que no funciona. Se necesita revisión normal.,MECANICO,Inspeccionar la correa de distribución.
+TKT0240,2025-02-18 06:27:14,El cliente reporta un problema con frenos. Menciona que da un error. Se necesita revisión de seguimiento.,MECANICO,Inspeccionar la correa de distribución.
+TKT0241,2025-08-09 06:27:14,El cliente reporta un problema con cobro. Menciona que no funciona. Se necesita revisión de seguimiento.,FACTURACIÓN,Reenviar la factura al cliente.
+TKT0242,2024-12-11 06:27:14,El cliente reporta un problema con batería. Menciona que da un error. Se necesita revisión normal.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0243,2025-04-28 06:27:14,El cliente reporta un problema con no llegó. Menciona que está fallando. Se necesita revisión urgente.,FACTURACIÓN,Reenviar la factura al cliente.
+TKT0244,2024-11-30 06:27:14,El cliente reporta un problema con factura. Menciona que está fallando. Se necesita revisión de seguimiento.,FACTURACIÓN,Verificar el estado del pago en el sistema.
+TKT0245,2025-05-30 06:27:14,El cliente reporta un problema con aceite. Menciona que hace un ruido extraño. Se necesita revisión de seguimiento.,MECANICO,Inspeccionar la correa de distribución.
+TKT0246,2025-04-08 06:27:14,El cliente reporta un problema con no enciende. Menciona que da un error. Se necesita revisión de seguimiento.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0247,2025-05-02 06:27:14,El cliente reporta un problema con vibración. Menciona que hace un ruido extraño. Se necesita revisión urgente.,MECANICO,Inspeccionar la correa de distribución.
+TKT0248,2024-11-28 06:27:14,El cliente reporta un problema con arranque. Menciona que da un error. Se necesita revisión normal.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0249,2024-12-05 06:27:14,El cliente reporta un problema con fusible. Menciona que da un error. Se necesita revisión de seguimiento.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0250,2025-08-03 06:27:14,El cliente reporta un problema con motor. Menciona que hace un ruido extraño. Se necesita revisión urgente.,MECANICO,Realizar cambio de aceite y filtro.
+TKT0251,2025-02-12 06:27:14,El cliente reporta un problema con cobro. Menciona que está fallando. Se necesita revisión normal.,FACTURACIÓN,Verificar el estado del pago en el sistema.
+TKT0252,2025-08-04 06:27:14,El cliente reporta un problema con importe. Menciona que da un error. Se necesita revisión normal.,FACTURACIÓN,Emitir una nota de crédito si corresponde.
+TKT0253,2025-08-08 06:27:14,El cliente reporta un problema con luces. Menciona que hace un ruido extraño. Se necesita revisión normal.,ELECTRICO,Verificar las conexiones del alternador.
+TKT0254,2025-09-20 06:27:14,El cliente reporta un problema con no enciende. Menciona que hace un ruido extraño. Se necesita revisión normal.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0255,2025-09-16 06:27:14,El cliente reporta un problema con aceite. Menciona que está fallando. Se necesita revisión urgente.,MECANICO,Cambiar pastillas de freno.
+TKT0256,2025-02-19 06:27:14,El cliente reporta un problema con batería. Menciona que hace un ruido extraño. Se necesita revisión urgente.,ELECTRICO,Revisar y cargar la batería.
+TKT0257,2024-12-07 06:27:14,El cliente reporta un problema con app. Menciona que da un error. Se necesita revisión de seguimiento.,SOFTWARE,Verificar credenciales de acceso.
+TKT0258,2024-12-17 06:27:14,El cliente reporta un problema con frenos. Menciona que está fallando. Se necesita revisión urgente.,MECANICO,Inspeccionar la correa de distribución.
+TKT0259,2025-08-24 06:27:14,El cliente reporta un problema con luces. Menciona que está fallando. Se necesita revisión normal.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0260,2025-05-17 06:27:14,El cliente reporta un problema con aceite. Menciona que está fallando. Se necesita revisión urgente.,MECANICO,Realizar cambio de aceite y filtro.
+TKT0261,2025-11-03 06:27:14,El cliente reporta un problema con batería. Menciona que da un error. Se necesita revisión normal.,ELECTRICO,Verificar las conexiones del alternador.
+TKT0262,2025-08-09 06:27:14,El cliente reporta un problema con no enciende. Menciona que hace un ruido extraño. Se necesita revisión urgente.,ELECTRICO,Revisar y cargar la batería.
+TKT0263,2025-02-27 06:27:14,El cliente reporta un problema con luces. Menciona que no funciona. Se necesita revisión normal.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0264,2024-12-22 06:27:14,El cliente reporta un problema con no llegó. Menciona que está fallando. Se necesita revisión normal.,FACTURACIÓN,Reenviar la factura al cliente.
+TKT0265,2025-03-02 06:27:14,El cliente reporta un problema con aceite. Menciona que da un error. Se necesita revisión de seguimiento.,MECANICO,Realizar cambio de aceite y filtro.
+TKT0266,2025-11-14 06:27:14,El cliente reporta un problema con aceite. Menciona que hace un ruido extraño. Se necesita revisión normal.,MECANICO,Realizar cambio de aceite y filtro.
+TKT0267,2025-09-13 06:27:14,El cliente reporta un problema con ruido. Menciona que hace un ruido extraño. Se necesita revisión urgente.,MECANICO,Realizar cambio de aceite y filtro.
+TKT0268,2025-04-30 06:27:14,El cliente reporta un problema con alternador. Menciona que está fallando. Se necesita revisión normal.,ELECTRICO,Revisar y cargar la batería.
+TKT0269,2025-04-10 06:27:14,El cliente reporta un problema con importe. Menciona que está fallando. Se necesita revisión normal.,FACTURACIÓN,Emitir una nota de crédito si corresponde.
+TKT0270,2025-04-11 06:27:14,El cliente reporta un problema con cobro. Menciona que está fallando. Se necesita revisión de seguimiento.,FACTURACIÓN,Reenviar la factura al cliente.
+TKT0271,2025-03-13 06:27:14,El cliente reporta un problema con frenos. Menciona que da un error. Se necesita revisión de seguimiento.,MECANICO,Inspeccionar la correa de distribución.
+TKT0272,2025-03-14 06:27:14,El cliente reporta un problema con batería. Menciona que no funciona. Se necesita revisión urgente.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0273,2025-08-15 06:27:14,El cliente reporta un problema con arranque. Menciona que da un error. Se necesita revisión de seguimiento.,ELECTRICO,Revisar y cargar la batería.
+TKT0274,2025-06-30 06:27:14,El cliente reporta un problema con cobro. Menciona que da un error. Se necesita revisión urgente.,FACTURACIÓN,Reenviar la factura al cliente.
+TKT0275,2025-04-19 06:27:14,El cliente reporta un problema con cobro. Menciona que no funciona. Se necesita revisión urgente.,FACTURACIÓN,Reenviar la factura al cliente.
+TKT0276,2025-01-02 06:27:14,El cliente reporta un problema con transmisión. Menciona que está fallando. Se necesita revisión de seguimiento.,MECANICO,Realizar cambio de aceite y filtro.
+TKT0277,2025-05-11 06:27:14,El cliente reporta un problema con aceite. Menciona que no funciona. Se necesita revisión normal.,MECANICO,Cambiar pastillas de freno.
+TKT0278,2024-12-07 06:27:14,El cliente reporta un problema con factura. Menciona que no funciona. Se necesita revisión normal.,FACTURACIÓN,Emitir una nota de crédito si corresponde.
+TKT0279,2025-05-26 06:27:14,El cliente reporta un problema con alternador. Menciona que da un error. Se necesita revisión urgente.,ELECTRICO,Revisar y cargar la batería.
+TKT0280,2025-09-15 06:27:14,El cliente reporta un problema con batería. Menciona que no funciona. Se necesita revisión urgente.,ELECTRICO,Verificar las conexiones del alternador.
+TKT0281,2025-01-29 06:27:14,El cliente reporta un problema con luces. Menciona que da un error. Se necesita revisión de seguimiento.,ELECTRICO,Revisar y cargar la batería.
+TKT0282,2024-12-30 06:27:14,El cliente reporta un problema con luces. Menciona que está fallando. Se necesita revisión de seguimiento.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0283,2025-05-11 06:27:14,El cliente reporta un problema con no funciona. Menciona que hace un ruido extraño. Se necesita revisión urgente.,SOFTWARE,Verificar credenciales de acceso.
+TKT0284,2025-05-15 06:27:14,El cliente reporta un problema con batería. Menciona que está fallando. Se necesita revisión de seguimiento.,ELECTRICO,Revisar y cargar la batería.
+TKT0285,2025-09-27 06:27:14,El cliente reporta un problema con cobro. Menciona que hace un ruido extraño. Se necesita revisión urgente.,FACTURACIÓN,Emitir una nota de crédito si corresponde.
+TKT0286,2024-12-19 06:27:14,El cliente reporta un problema con batería. Menciona que da un error. Se necesita revisión urgente.,ELECTRICO,Verificar las conexiones del alternador.
+TKT0287,2025-05-04 06:27:14,El cliente reporta un problema con vibración. Menciona que está fallando. Se necesita revisión de seguimiento.,MECANICO,Realizar cambio de aceite y filtro.
+TKT0288,2025-03-14 06:27:14,El cliente reporta un problema con arranque. Menciona que no funciona. Se necesita revisión de seguimiento.,ELECTRICO,Verificar las conexiones del alternador.
+TKT0289,2025-06-07 06:27:14,El cliente reporta un problema con importe. Menciona que da un error. Se necesita revisión urgente.,FACTURACIÓN,Reenviar la factura al cliente.
+TKT0290,2025-07-13 06:27:14,El cliente reporta un problema con no enciende. Menciona que no funciona. Se necesita revisión normal.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0291,2025-07-18 06:27:14,El cliente reporta un problema con no llegó. Menciona que hace un ruido extraño. Se necesita revisión de seguimiento.,FACTURACIÓN,Emitir una nota de crédito si corresponde.
+TKT0292,2025-04-22 06:27:14,El cliente reporta un problema con batería. Menciona que no funciona. Se necesita revisión normal.,ELECTRICO,Verificar las conexiones del alternador.
+TKT0293,2025-09-10 06:27:14,El cliente reporta un problema con app. Menciona que hace un ruido extraño. Se necesita revisión de seguimiento.,SOFTWARE,Reiniciar el servidor de la aplicación.
+TKT0294,2025-04-27 06:27:14,El cliente reporta un problema con transmisión. Menciona que hace un ruido extraño. Se necesita revisión de seguimiento.,MECANICO,Inspeccionar la correa de distribución.
+TKT0295,2024-12-01 06:27:14,El cliente reporta un problema con arranque. Menciona que da un error. Se necesita revisión urgente.,ELECTRICO,Reemplazar el fusible quemado.
+TKT0296,2025-08-10 06:27:14,El cliente reporta un problema con error. Menciona que está fallando. Se necesita revisión urgente.,SOFTWARE,Borrar caché y cookies del navegador.
+TKT0297,2025-01-30 06:27:14,El cliente reporta un problema con ruido. Menciona que no funciona. Se necesita revisión normal.,MECANICO,Inspeccionar la correa de distribución.
+TKT0298,2025-03-11 06:27:14,El cliente reporta un problema con app. Menciona que no funciona. Se necesita revisión urgente.,SOFTWARE,Reiniciar el servidor de la aplicación.
+TKT0299,2024-12-09 06:27:14,El cliente reporta un problema con ruido. Menciona que da un error. Se necesita revisión normal.,MECANICO,Inspeccionar la correa de distribución.

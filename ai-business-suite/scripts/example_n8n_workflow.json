@@ -1,0 +1,140 @@
+{
+  "name": "Daily Top Items Forecast Check",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "hours",
+              "value": 24
+            }
+          ]
+        }
+      },
+      "name": "Daily Cron Trigger",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1,
+      "position": [
+        450,
+        300
+      ],
+      "id": "1",
+      "notes": "Este nodo inicia el flujo de trabajo todos los días a la misma hora."
+    },
+    {
+      "parameters": {
+        "url": "http://localhost:8000/api/forecast/top-items",
+        "options": {}
+      },
+      "name": "Get Top Items Forecast",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 1,
+      "position": [
+        650,
+        300
+      ],
+      "id": "2",
+      "notes": "Llama al endpoint de la API para obtener la lista de los 10 items con mayor demanda estimada para el próximo mes."
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {},
+          "conditions": [
+            {
+              "value1": "{{$json.predicted_quantity}}",
+              "operation": "larger",
+              "value2": "200"
+            }
+          ]
+        }
+      },
+      "name": "IF: Demand > 200?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 1,
+      "position": [
+        850,
+        300
+      ],
+      "id": "3",
+      "notes": "Filtra los resultados para continuar solo con los items cuya demanda predicha sea superior a un umbral crítico (ej: 200 unidades)."
+    },
+    {
+      "parameters": {
+        "functionCode": "const item = $json;\n\n// Formatear el mensaje\n$json.message = `ALERTA DE INVENTARIO:\n\nEl item '${item.item_name}' (Código: ${item.item_code}) en el almacén ${item.whs_code} tiene una demanda estimada de ${item.predicted_quantity} unidades para el próximo mes.\n\nSe recomienda revisar el stock y planificar una orden de compra.\n`;\n\nreturn $json;"
+      },
+      "name": "Format Notification",
+      "type": "n8n-nodes-base.function",
+      "typeVersion": 1,
+      "position": [
+        1050,
+        300
+      ],
+      "id": "4",
+      "notes": "Prepara el cuerpo del mensaje de notificación para que sea claro y contenga toda la información relevante."
+    },
+    {
+      "parameters": {
+        "channel": "#alerts-inventory",
+        "text": "{{$json.message}}",
+        "options": {}
+      },
+      "name": "Send Slack/Email Alert",
+      "type": "n8n-nodes-base.slack",
+      "typeVersion": 1,
+      "position": [
+        1250,
+        300
+      ],
+      "id": "5",
+      "notes": "Simula el envío de una notificación al canal de Slack de logística o podría ser reemplazado por un nodo de Email para enviar un correo."
+    }
+  ],
+  "connections": {
+    "Daily Cron Trigger": {
+      "main": [
+        [
+          {
+            "node": "Get Top Items Forecast",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Top Items Forecast": {
+      "main": [
+        [
+          {
+            "node": "IF: Demand > 200?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "IF: Demand > 200?": {
+      "main": [
+        [
+          {
+            "node": "Format Notification",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Format Notification": {
+      "main": [
+        [
+          {
+            "node": "Send Slack/Email Alert",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  }
+}

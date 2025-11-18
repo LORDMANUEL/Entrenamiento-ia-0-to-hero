@@ -1,0 +1,36 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+    container_name: ai_suite_backend
+    ports:
+      - "8000:8000"
+    volumes:
+      # Mount the entire backend directory for live reloading
+      - ./backend:/app
+      # Mount the data directory read-only
+      - ./data:/app/data:ro
+    networks:
+      - ai_suite_network
+
+  frontend:
+    build:
+      context: ./frontend
+    container_name: ai_suite_frontend
+    ports:
+      - "5173:5173"
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules # Isolate node_modules inside the container
+    environment:
+      - VITE_API_BASE_URL=http://localhost:8000
+    depends_on:
+      - backend
+    networks:
+      - ai_suite_network
+
+networks:
+  ai_suite_network:
+    driver: bridge

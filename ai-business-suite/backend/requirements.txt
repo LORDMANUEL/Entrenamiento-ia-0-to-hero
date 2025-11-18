@@ -1,0 +1,18 @@
+# FastAPI and related
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Pydantic
+pydantic
+pydantic-settings
+
+# Machine Learning
+scikit-learn
+pandas
+numpy
+joblib
+
+# For NLP confusion matrix plot
+seaborn
+matplotlib
